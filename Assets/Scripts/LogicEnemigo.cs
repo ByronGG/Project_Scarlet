@@ -9,6 +9,7 @@ public class LogicEnemigo : MonoBehaviour
     private Animator ani;
     public Quaternion angulo;
     public float grado;
+    public int distancia;
 
 
     public GameObject target;
@@ -22,7 +23,7 @@ public class LogicEnemigo : MonoBehaviour
 
     public void comportamientoEnemigo()
     {
-        if(Vector3.Distance(transform.position, target.transform.position) > 10)
+        if(Vector3.Distance(transform.position, target.transform.position) > distancia)
         {
             ani.SetBool("run", false);
             cronometro += 1 * Time.deltaTime;
