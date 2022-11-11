@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -8,6 +9,15 @@ public class LogicPersonaje : MonoBehaviour
     public float velocidadRotacion = 200.0f;
     private Animator anim;
     public float x, y;
+
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.CompareTag("arma"))
+        {
+            Debug.Log("daño");
+        }
+    }
+
 
     // Start is called before the first frame update
     void Start()
