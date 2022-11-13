@@ -1,0 +1,11 @@
+Model Information:
+* title:	Traffic Cone for Unity 5
+* source:	https://sketchfab.com/3d-models/traffic-cone-for-unity-5-44ac0cee8ae2411f8b15218e9aec0043
+* author:	Sabri Ayeş (https://sketchfab.com/sabriayes)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Traffic Cone for Unity 5" (https://sketchfab.com/3d-models/traffic-cone-for-unity-5-44ac0cee8ae2411f8b15218e9aec0043) by Sabri Ayeş (https://sketchfab.com/sabriayes) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

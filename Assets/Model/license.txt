@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chinese Road Signs (32 road signs and more)
+* source:	https://sketchfab.com/3d-models/chinese-road-signs-32-road-signs-and-more-241ed4fd2fc145259ff9b51bd6f04877
+* author:	bobymonsuta (https://sketchfab.com/bobymonsuta)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chinese Road Signs (32 road signs and more)" (https://sketchfab.com/3d-models/chinese-road-signs-32-road-signs-and-more-241ed4fd2fc145259ff9b51bd6f04877) by bobymonsuta (https://sketchfab.com/bobymonsuta) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

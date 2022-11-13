@@ -1,0 +1,11 @@
+Model Information:
+* title:	Caution Signs Set 2
+* source:	https://sketchfab.com/3d-models/caution-signs-set-2-2e13e3f9134a4044a08da150ab3ba511
+* author:	Caboose3d (https://sketchfab.com/caboose3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Caution Signs Set 2" (https://sketchfab.com/3d-models/caution-signs-set-2-2e13e3f9134a4044a08da150ab3ba511) by Caboose3d (https://sketchfab.com/caboose3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

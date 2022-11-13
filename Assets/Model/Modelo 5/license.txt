@@ -1,0 +1,11 @@
+Model Information:
+* title:	Road sign
+* source:	https://sketchfab.com/3d-models/road-sign-45d81eb635764006afa0d46123e168c7
+* author:	shevchukmaks (https://sketchfab.com/shevchukmaks)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Road sign" (https://sketchfab.com/3d-models/road-sign-45d81eb635764006afa0d46123e168c7) by shevchukmaks (https://sketchfab.com/shevchukmaks) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

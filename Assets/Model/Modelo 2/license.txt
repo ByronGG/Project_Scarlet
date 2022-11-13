@@ -1,0 +1,11 @@
+Model Information:
+* title:	Traffic Signal
+* source:	https://sketchfab.com/3d-models/traffic-signal-477c336845b94b8a82b486735f748b34
+* author:	youoyouyou (https://sketchfab.com/youoyouyou)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Traffic Signal" (https://sketchfab.com/3d-models/traffic-signal-477c336845b94b8a82b486735f748b34) by youoyouyou (https://sketchfab.com/youoyouyou) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
