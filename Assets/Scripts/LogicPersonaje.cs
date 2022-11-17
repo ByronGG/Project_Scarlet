@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class LogicPersonaje : MonoBehaviour
 {
@@ -14,7 +15,8 @@ public class LogicPersonaje : MonoBehaviour
     {
         if (other.CompareTag("arma"))
         {
-            Debug.Log("daño");
+            Debug.Log("Estas muerto!");
+            SceneManager.LoadScene(2);
         }
     }
 
