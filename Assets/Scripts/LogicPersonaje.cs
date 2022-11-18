@@ -11,6 +11,8 @@ public class LogicPersonaje : MonoBehaviour
     private Animator anim;
     public float x, y;
 
+    public AudioSource footstepts;
+
     void OnTriggerEnter(Collider other)
     {
         if (other.CompareTag("arma"))
@@ -30,9 +32,10 @@ public class LogicPersonaje : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
         x = Input.GetAxis("Horizontal");
         y = Input.GetAxis("Vertical");
-
+        
         transform.Rotate(0, x * Time.deltaTime * velocidadRotacion, 0);
         transform.Translate(0, 0, y * Time.deltaTime * velocidadMovimiento);
 
