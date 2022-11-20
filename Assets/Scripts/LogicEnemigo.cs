@@ -19,7 +19,8 @@ public class LogicEnemigo : MonoBehaviour
     void Start()
     {
         ani = GetComponent<Animator>();
-        target = GameObject.Find("Jugador");
+        //target = GameObject.Find("Jugador");
+        target = GameObject.Find("Player");
     }
 
     public void comportamientoEnemigo()
